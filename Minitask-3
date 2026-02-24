@@ -2,10 +2,10 @@
 //Problem : Terdapat variabel X,Buat algoritma untuk menetukan apakah X bilangin ganjil atau genap
 /*
 1.mulai
-2.Buat variable X
+2.masukan nilai ke variable X
 3.Buat logika kondisi dimana:
-Jika X % 2 === 0
-4.Jika Logika kondisi terpenuhi Maka bilangan tersebut "Genap"
-5.Jika Logika kondisi tidak terpenuhi Maka bilangan tersebut "Ganjil"
+Jika X di bagi 2 hingga sisa baginya 0
+4.Maka bilangan tersebut "Genap"
+5.Jika sisa baginya lebih dari 0 Maka bilangan tersebut "Ganjil"
 6.Selesai
 */
