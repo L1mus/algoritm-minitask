@@ -1,0 +1,14 @@
+//Algoritma dasar
+//Problem Menghitung Luas dan Keliling Lingkaran 
+/*
+1.Mulai
+2.Buat variable R untuk menampung nilai Jari-jari Lingkaran
+3.Buat variable Phi untuk menampung nilai kontanta 3.14
+4.buat varable luasLinkaran untuk menampung hasil dari perhitungan rumus luas lingkaran 
+5.hitung luas lingkaran dengan rumus Phi*R*R
+6.simpan hasil perhitungan ke variable luasLingkaran
+7.buat variable kelilingLingkaran untuk menampung hasil dari perhitungan rumus keliling lingkaran
+8.hutung keliling lingkaran dengan rumus 2*Phi*R
+9.simpan hasil perhitungan ke variable kelilingLingkaran
+10.Selesai
+*/
