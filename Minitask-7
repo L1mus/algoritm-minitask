@@ -1,0 +1,18 @@
+Function calculateTotalPayment
+  Declare electricityUsage,result : integer
+Begin
+Input(electricityUsage)
+  If electricityUsage>200
+  then
+     result<--electricityUsage*5000
+  ElseIf electricityUsage>100 And electricityUsage<=200
+  then
+     result<--electricityUsage*3000
+  Else 
+     result<--electricityUsage*1000
+  EndIf
+Output("Total pembayaran Listrik anda sebesar ",result)
+End
+
+    
+ 
