@@ -1,9 +1,11 @@
 // ALGORITMA DASAR
 /*
 1. mulai
-2. Buat/Tamabahkan Gelas C tanpa cairan
-3. Pindahkan Cairan teh yang ada di gelas A ke gelas C
-4. Lalu pindahkan cairan kopi yang berada di gelas B ke gelas A yang kosong
-5. lalu Pindakan Cairan Teh yang ada di gelas C ke gelas B yang kosong
-6. Selesai
+2. Buat gelas A berisi cairan teh
+3. Buat gelas B berisi cairan kopi
+4. Buat/Tamabahkan Gelas C tanpa cairan
+5. Pindahkan Cairan teh yang ada di gelas A ke gelas C
+6. Lalu pindahkan cairan kopi yang berada di gelas B ke gelas A yang kosong
+7. lalu Pindakan Cairan Teh yang ada di gelas C ke gelas B yang kosong
+8. Selesai
 */
