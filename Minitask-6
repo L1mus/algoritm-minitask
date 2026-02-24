@@ -1,17 +1,17 @@
 function discount
-declare totalPembelian,result : integer
+  declare totalPembelian,result : integer
 begin
-input(totalPembelian)
- if totalPembelian >= 500000 OR totalPembelian <= 1000000
- then
-   if totalPembelian>1000000
-   then
-      result<--totalPembelian-(totalPembelian*(10/100))
-   else
-      result<--totalPembelian-(totalPembelian*(5/100))
-   endif
- else
-   result<--totalPembelian
- endif
-output("Total= ",result)
+  input(totalPembelian)
+  if totalPembelian >= 500000 AND totalPembelian <= 1000000
+  then
+    if totalPembelian>1000000
+    then
+       result<--totalPembelian-(totalPembelian*(10/100))
+    else
+       result<--totalPembelian-(totalPembelian*(5/100))
+    endif
+  else
+    result<--totalPembelian
+  endif
+ output("Total= ",result)
 end
