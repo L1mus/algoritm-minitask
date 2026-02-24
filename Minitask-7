@@ -9,7 +9,7 @@ Input(electricityUsage)
   then
      result<--electricityUsage*3000
   Else 
-     result<--electricityUsage*1000
+     result<--electricityUsage*2000
   EndIf
 Output("Total pembayaran Listrik anda sebesar ",result)
 End
